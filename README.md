@@ -1,5 +1,8 @@
 # darknetMUEAVI
 
+repo cloned from:
+https://github.com/AlexeyAB/darknet
+
 # darknet usage
 
 export LD_LIBRARY_PATH=/usr/local/cuda-9.2/lib64:$LD_LIBRARY_PATH
